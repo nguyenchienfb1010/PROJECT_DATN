@@ -1,0 +1,86 @@
+header {
+	background: url('http://www.autodatz.com/wp-content/uploads/2017/05/Old-Car-Wallpapers-Hd-36-with-Old-Car-Wallpapers-Hd.jpg');
+	text-align: center;
+	width: 100%;
+	height: auto;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+	overflow: hidden;
+}
+header .overlay{
+	width: 100%;
+    height: 100%;
+    padding: 50px;
+    color: #FFF;
+    text-shadow: 1px 1px 1px #333;
+    background-image: linear-gradient( 135deg, #00000069 10%, #fd5e086b 100%);
+	
+}
+
+h1 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 80px;
+	margin-bottom: 30px;
+}
+
+h3, p {
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 30px;
+}
+
+button {
+	border: none;
+	outline: none;
+	padding: 10px 20px;
+	border-radius: 50px;
+	color: #FFF;
+	background: black;
+	margin-bottom: 50px;
+	box-shadow: 0 3px 20px 0 #0000003b;
+	margin: 20px 44px;
+}
+button:hover{
+	cursor: pointer;
+}
+.h2, h2 {
+    font-size: 2rem;
+    margin-top: 20px;
+    font-family: fantasy;
+    font-weight: 100;
+    text-transform: inherit;
+}
+.Wallet_button6__kUl39{
+	border-radius: 25px !important;
+    font-size: 16px;
+    margin: 15px 0;
+    font-family: fantasy;
+    font-weight: 100;
+}
+.Wallet_button6__kUl39:hover{
+	background-color: #FFF;
+	border: 1px solid black;
+	color: black;
+	transition: 0.5s;
+}
+h1 {
+    /* font-family: 'Dancing Script', cursive; */
+    font-size: 70px;
+    margin-bottom: 30px;
+    font-family: fantasy;
+}
+h3 {
+    /* font-family: 'Open Sans', sans-serif; */
+    margin-bottom: 30px;
+    font-family: fantasy;
+    font-size: 21px;
+}
+h3, p {
+    /* font-family: 'Open Sans', sans-serif; */
+    margin-bottom: 30px;
+}
+.Wallet_interactionsCard__XhGG1{
+	border: 1px solid #00000021 !important;
+	box-shadow: none !important;
+	background: none !important;
+}
